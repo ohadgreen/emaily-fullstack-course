@@ -1,0 +1,6 @@
+git remote add heroku https://git.heroku.com/hidden-woodland-89020.git
+/c/Program\ Files/Heroku/bin/heroku.cmd open
+https://hidden-woodland-89020.herokuapp.com/
+
+
+mongodb://ogreen:cY3jsjxy@ds141274.mlab.com:41274/og-emaily-dev
